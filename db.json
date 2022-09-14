@@ -1,0 +1,163 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Luffy",
+      "lastName": "Monkey D",
+      "Email": "Luffy@gmail.com",
+      "Mobile": 3748396374,
+      "Salary": 3000000000
+    },
+    {
+      "id": 2,
+      "firstName": "Zoro",
+      "lastName": "Roronoa ",
+      "Email": "Zoro@gmail.com",
+      "Mobile": 8552899676,
+      "Salary": 1100001100
+    },
+    {
+      "id": 3,
+      "firstName": "Ussop",
+      "lastName": "God",
+      "Email": "Ussop@gmail.com",
+      "Mobile": 3057218410,
+      "Salary": 500000000
+    },
+    {
+      "id": 4,
+      "firstName": "Sanji",
+      "lastName": "Vinsmoke",
+      "Email": "Sanji@gmail.com",
+      "Mobile": 7826783686,
+      "Salary": 1032000000
+    },
+    {
+      "firstName": "Nami",
+      "lastName": "Unknown",
+      "Email": "Nami@gmail.com",
+      "Mobile": 8343867888,
+      "Salary": 366000000,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "firstName": "Chopper",
+      "lastName": "Tony Tony",
+      "Email": "Chopper@gmail.com",
+      "Mobile": 8376237489,
+      "Salary": 1000
+    },
+    {
+      "id": 7,
+      "firstName": "Nico",
+      "lastName": "Robin",
+      "Email": "Nico@gmail.com",
+      "Mobile": 9372889233,
+      "Salary": 930000000
+    },
+    {
+      "id": 8,
+      "firstName": "Franky",
+      "lastName": "Genral",
+      "Email": "Franky@gmail.com",
+      "Mobile": 6789324989,
+      "Salary": 394000000
+    },
+    {
+      "id": 9,
+      "firstName": "Brook",
+      "lastName": "Soul King",
+      "Email": "Brook@gmail.com",
+      "Mobile": 6789324989,
+      "Salary": 391000000
+    },
+    {
+      "firstName": "Jinbe",
+      "lastName": "Night of the Sea",
+      "Email": "Jinbe@gmail.com",
+      "Mobile": 8470278284,
+      "Salary": 1100000000,
+      "id": 10
+    },
+    {
+      "firstName": "James",
+      "lastName": "Yang",
+      "Email": "jproyang10@gmail.com",
+      "Mobile": 323332323,
+      "Salary": 234334,
+      "id": 15
+    },
+    {
+      "firstName": "James",
+      "lastName": "Yang",
+      "Email": "jproyang10@gmail.com",
+      "Mobile": 343,
+      "Salary": 34234324,
+      "id": 16
+    },
+    {
+      "firstName": "Rob",
+      "lastName": "Van",
+      "Email": "Rob@gmail.com",
+      "Mobile": 9385748394,
+      "Salary": 890000,
+      "id": 17
+    },
+    {
+      "firstName": "Justin",
+      "lastName": "Park",
+      "Email": "justin@gmail.com",
+      "Mobile": 8374839201,
+      "Salary": 90000,
+      "id": 18
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "James Yang",
+      "email": "jproyang10@gmail.com",
+      "password": "password",
+      "mobile": 6124123985,
+      "id": 1
+    },
+    {
+      "fullname": "D.S",
+      "email": "DS@gmail.com",
+      "password": "password",
+      "mobile": 382000388,
+      "id": 2
+    },
+    {
+      "fullname": "DS",
+      "email": "DS@gmail.com",
+      "password": "password",
+      "mobile": 34234213423,
+      "id": 3
+    },
+    {
+      "fullname": "Dani Saliente",
+      "email": "ds@gmail.com",
+      "password": "password",
+      "mobile": 7483928475,
+      "id": 4
+    },
+    {
+      "fullname": "James Yang",
+      "email": "jproyang10@gmail.com",
+      "password": "password",
+      "mobile": 323223232323,
+      "id": 5
+    },
+    {
+      "fullname": "Rick Morty",
+      "email": "rick@gmail.com",
+      "password": "password",
+      "mobile": 738947389247989,
+      "id": 6
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
